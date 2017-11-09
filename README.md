@@ -5,7 +5,7 @@
 *E-Mail* : <alextanbz@gmail.com> 
 ***
 
-## 原文博客：[机器学习之kNN算法理论+实战讲解（验证码识别）](http://blog.csdn.net/AlexTan_/article/details/77057068)
+## 原文博客：[机器学习之kNN算法理论+实战讲解（验证码识别）](http://blog.csdn.net/alextan_/article/details/78494892)
 
 ## 环境安装：
 * windows建议去lfd下载相应安装包手动pip安装
